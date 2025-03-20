@@ -78,12 +78,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/amgxe8.jpg"
+    "START_IMG_URL", "https://graph.org/file/7793dd6a86ad943366dd8-cd4fecd427fc7b0bd8.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/amgxe8.jpg"
+    "PING_IMG_URL", "https://graph.org/file/b6622cff41c5a66183caa-1c369e0581a4da6bbe.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/669d7ba53187d45d25e4f-54144d88684b4f686e.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yfvai0.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/nef735.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
